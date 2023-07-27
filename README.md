@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I'm Renan Santos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-<!--
-**RenanS4ntos/renanS4ntos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Scientist. Currently I'm working as a Front-end Developer. 🚀
 
-Here are some ideas to get you started:
+#### My current tools 
+📲 Front-end Mobile with React Native  
+🌎 Front-end Web with ReactJS  
+📡 Back-end with NodeJS
+🛠️ Typescript
+⚒️ Tailwindcss
+🧰 And more...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💬 Find me elsewhere
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renans4ntos/)](https://www.linkedin.com/in/renans4ntos/) 
+[![Gmail Badge](https://img.shields.io/badge/-renanbs41@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigorgtic@gmail.com)](mailto:renanbs41@gmail.com)
