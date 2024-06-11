@@ -4,7 +4,7 @@ I’m a Computer Scientist. Currently I'm working as a Front-end Developer. 🚀
 
 #### My current tools 
 📲 React Native  
-🌎 React | Next.js
+🌎 React | Next.js 
 📡 NodeJS  
 🛠️ Typescript  
 ⚒️ Tailwindcss  
